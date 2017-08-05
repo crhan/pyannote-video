@@ -47,6 +47,7 @@ setup(
         'tqdm >= 2.0.0',
         'dlib == 19.4.0',
         'munkres >= 1.0.7',
+        'pandas >= 0.20.3',
         'moviepy == 0.2.2.11'
     ],
 
